@@ -1,4 +1,4 @@
-# Burger Ordering System (Assignment)
+# Burger Ordering Simulation System (Assignment)
 CT070-3-3-DPAT(Design Patterns) Assignment<br/>
 December 2020 – March 2021<br/><br/>
 
